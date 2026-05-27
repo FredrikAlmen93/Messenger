@@ -35,13 +35,8 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/fredrik-sson/messenger</url>
-        </repository>
-        <snapshotRepository>
-            <id>github</id>
-            <name>GitHub Packages</name>
             <url>https://maven.pkg.github.com/FredrikAlmen93/Messenger</url>
-        </snapshotRepository>
+        </repository>
     </distributionManagement>
     <dependencies>
         <dependency>
